@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter / output
+*.ipynb_checkpoints
+
+# Data / hasil simulasi besar
+*.npy
+*.npz
+*.csv
+*.h5
+*.log

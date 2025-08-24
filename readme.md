@@ -19,8 +19,7 @@ Inti dari paper tersebut adalah:
 ```bash
 python -m TrotterAlgorithm.[nama_folder].[nama_proyek]
 python -m TrotterAlgorithm.main
-
----
+```
 
 Kalau kamu mau, aku bisa buatkan versi **lebih “GitHub-friendly” lagi** dengan:  
 
@@ -29,3 +28,4 @@ Kalau kamu mau, aku bisa buatkan versi **lebih “GitHub-friendly” lagi** deng
 - Contoh output atau screenshot supaya lebih menarik  
 
 Mau aku buatkan versi itu juga?
+
